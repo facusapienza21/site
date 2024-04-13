@@ -1,6 +1,6 @@
-# Seminars
+# Seminars/Reading Groups
 
-Here's a list of seminars that might be of interest to students in the Statistics Department:
+Here's a list of some seminars and reading groups that might be of interest to students in the Statistics Department:
 
 ## Neyman Seminar
 
@@ -56,3 +56,27 @@ When: Tuesdays, 10:30am-12pm
 Where: To attend via Zoom email Jorge Garza Vargas (jgarzavargas at berkeley.edu)
 
 The probababilistic operator algebra seminar is a weekly seminar run by the Mathematics department which centers around random matrix theory and free probability. The speakers are typically researchers from other universities, invited to speak at Berkeley. See https://math.berkeley.edu/~jgarzav/seminar.html for the details of past and upcoming talks.
+
+
+## Causal Inference Reading Group
+
+When:
+Where:
+
+[Description]
+
+
+## Machine Learning Reading Group
+
+When:
+Where:
+
+[Description]
+
+
+## Gaussian Processes Reading Group
+
+When:
+Where:
+
+[Description]
